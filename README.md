@@ -1,4 +1,4 @@
-안녕하세요 FE 개발자 신은찬입니다.
+안녕하세요 개발자 신은찬입니다.
 =======
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchan0324&layout=compact)
